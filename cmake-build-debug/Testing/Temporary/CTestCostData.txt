@@ -1,0 +1,2 @@
+TestAverage.HandleAverage 1 0.00280987
+---
